@@ -52,4 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+## Math
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
