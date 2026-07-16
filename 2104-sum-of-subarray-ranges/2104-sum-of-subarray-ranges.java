@@ -72,4 +72,35 @@ class Solution {
         }
         return maxSum-minSum;
     }
+    /*
+    [2,2,2]
+    -1,-1,-1 --> PGI
+     1,2,3   -->NGI
+
+     -1,-1,-1 --> PSI
+     1,2,3 -->NSI
+
+     subarrays
+     2,
+     2,2,
+     2,2,2
+
+     2,
+     2,2
+
+     2,
+    Maximums
+     2*(1)*(1) -->2 (1 subarray)
+     2*(2)*(1) -->4 (2 subarray)
+     2*(3)*(1) -->6 (3 subarray)
+
+     Minimums
+     2*(1)*(1) -->2 (1 subarray)
+     2*(2)*(1) -->4 (2 subarray)
+     2*(3)*(1) -->6 (3 subarray)
+
+     ans = 0
+
+
+    */
 }
