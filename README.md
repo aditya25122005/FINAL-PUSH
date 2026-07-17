@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0200-number-of-islands) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [2104-sum-of-subarray-ranges](https://github.com/aditya25122005/FINAL-PUSH/tree/master/2104-sum-of-subarray-ranges) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0128-longest-consecutive-sequence](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0128-longest-consecutive-sequence) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -73,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0200-number-of-islands) |
 ## Matrix
 |  |
