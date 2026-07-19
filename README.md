@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0200-number-of-islands) |
+| [0209-minimum-size-subarray-sum](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0238-product-of-array-except-self) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0238-product-of-array-except-self) |
 ## String
 |  |
@@ -117,10 +119,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0567-permutation-in-string) |
 ## Two Pointers
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0567-permutation-in-string) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
