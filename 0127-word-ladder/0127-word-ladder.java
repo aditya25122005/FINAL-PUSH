@@ -1,20 +1,24 @@
 class Solution {
     public int ladderLength(String begin, String endWord, List<String> wordList) {
         HashSet<String> vis = new HashSet<>();
-        PriorityQueue<Pair> q = new PriorityQueue<>((a,b)->Integer.compare(a.dis,b.dis));
-        q.add(new Pair(begin,1));
+        Queue<String> q = new LinkedList<>();
+        int curr = 1;
+        q.add(begin);
         while(!q.isEmpty()){
-            Pair rm = q.poll();
-            if(vis.contains(rm.s)) continue;
-            vis.add(rm.s);
-            if(rm.s.equals(endWord)){
-                return rm.dis;
-            }
-            for(String str:wordList){
-                if(isValid(rm.s,str) && !vis.contains(str)){
-                    q.add(new Pair(str,rm.dis+1));
+            int size = q.size();
+            for(int i=0;i<size;i++){
+                String rm = q.poll();
+                if(vis.contains(rm)) continue;
+                vis.add(rm);
+                if(rm.equals(endWord)) return curr;
+
+                for(String str:wordList){
+                    if(isValid(rm,str) && !vis.contains(str)){
+                        q.add(str);
+                    }
                 }
             }
+            curr++; 
         }
         return 0;
     }
