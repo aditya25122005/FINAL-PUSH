@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0743-network-delay-time) |
 ## Breadth-First Search
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0743-network-delay-time) |
 ## Binary Tree
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0684-redundant-connection) |
 ## Matrix
 |  |
 | ------- |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0743-network-delay-time) |
 ## Topological Sort
 |  |
