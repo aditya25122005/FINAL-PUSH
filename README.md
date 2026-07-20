@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Math
@@ -169,9 +170,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0023-merge-k-sorted-lists) |
 | [0743-network-delay-time](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0743-network-delay-time) |
 ## Shortest Path
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0743-network-delay-time) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
