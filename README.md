@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0022-generate-parentheses) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0174-dungeon-game](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0174-dungeon-game) |
 | [0312-burst-balloons](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0312-burst-balloons) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0022-generate-parentheses) |
 | [0127-word-ladder](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0127-word-ladder) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0567-permutation-in-string) |
@@ -196,4 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0023-merge-k-sorted-lists) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
