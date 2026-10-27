@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0743-network-delay-time) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0743-network-delay-time) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2104-sum-of-subarray-ranges](https://github.com/aditya25122005/FINAL-PUSH/tree/master/2104-sum-of-subarray-ranges) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -117,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0684-redundant-connection) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Matrix
 |  |
 | ------- |
 | [0174-dungeon-game](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0200-number-of-islands) |
 | [1463-cherry-pickup-ii](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1463-cherry-pickup-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Enumeration
 |  |
 | ------- |
