@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0518-coin-change-ii) |
 | [0739-daily-temperatures](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0907-sum-of-subarray-minimums) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1463-cherry-pickup-ii) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0238-product-of-array-except-self) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0567-permutation-in-string) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
 | ------- |
