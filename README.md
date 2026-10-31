@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-cherry-pickup-ii](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1463-cherry-pickup-ii) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3665-twisted-mirror-path-count](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Array
 |  |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2104-sum-of-subarray-ranges](https://github.com/aditya25122005/FINAL-PUSH/tree/master/2104-sum-of-subarray-ranges) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0994-rotting-oranges) |
 | [1463-cherry-pickup-ii](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1463-cherry-pickup-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Enumeration
 |  |
