@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0739-daily-temperatures) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0907-sum-of-subarray-minimums) |
 | [0994-rotting-oranges](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0994-rotting-oranges) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1463-cherry-pickup-ii](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1463-cherry-pickup-ii) |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1567-maximum-length-of-subarray-with-positive-product) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/aditya25122005/FINAL-PUSH/tree/master/0238-product-of-array-except-self) |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1352-product-of-the-last-k-numbers) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## String
 |  |
@@ -238,4 +241,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
