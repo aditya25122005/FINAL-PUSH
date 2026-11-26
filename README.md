@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1352-product-of-the-last-k-numbers](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1352-product-of-the-last-k-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3360-stone-removal-game](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3360-stone-removal-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Number Theory
@@ -249,4 +250,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/aditya25122005/FINAL-PUSH/tree/master/1352-product-of-the-last-k-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3360-stone-removal-game](https://github.com/aditya25122005/FINAL-PUSH/tree/master/3360-stone-removal-game) |
 <!---LeetCode Topics End-->
